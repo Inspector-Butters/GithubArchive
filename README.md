@@ -5,6 +5,8 @@ The verification is done using Lit Protocol nodes.
 
 This project was created at HackFS 2024.
 
+[Presentation](https://ethglobal.com/showcase/githubarchive-gbcfd)
+
 ### Run
 0. npm install
 1. Go to frontend/src/proxy-server and run `npx --env-file=.env tsx index.ts`
